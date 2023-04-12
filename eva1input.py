@@ -1,0 +1,6 @@
+print('Bienvenido a Evaluación N°1 Programación y Redes Virtualizadas')
+a = input('Introduzca su nombre y su apellido: ')
+b = input('Ingrese su sección o código: ')
+c = input('Ingrese el nombre de su sede: ')
+print('Bienvenido ',a)
+print('Usted está en la sección',b ,'en la sede',c)
